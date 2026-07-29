@@ -1,4 +1,10 @@
-# Customer Retention Prediction using Deep Learning
+# Customer Retention Prediction using Deep Learning:
+<img width="497" height="312" alt="image" src="https://github.com/user-attachments/assets/210b5327-409b-4cfe-bb47-49112a1f2341" />
+
+<img width="473" height="334" alt="image" src="https://github.com/user-attachments/assets/84d5f571-53eb-4abd-816e-3f47211bd0fd" />
+<img width="473" height="312" alt="image" src="https://github.com/user-attachments/assets/c0e228c5-a0f3-4a24-9a20-d7d181c080b3" />
+
+
 
 ## Project Overview
 
